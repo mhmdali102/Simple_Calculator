@@ -150,12 +150,10 @@
                     TextBox1.Text = "Error!"
 
                 End Try
-
             Else
                 TextBox1.Text = "Error!"
             End If
             operator_selector = False
-
         End If
     End Sub
 
