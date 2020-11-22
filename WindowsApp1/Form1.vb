@@ -148,7 +148,6 @@
 
                 Catch ex As Exception
                     TextBox1.Text = "Error!"
-
                 End Try
             Else
                 TextBox1.Text = "Error!"
